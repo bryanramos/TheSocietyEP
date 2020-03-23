@@ -11,9 +11,11 @@ import './App.css';
 // pages
 import Vendors from './pages/Vendors';
 import Home from './pages/Home';
+import Contact from './pages/Contact';
 
 // components
 import Navigation from './components/Navigation';
+import Footer from './components/Footer';
 
 export default class App extends Component {
 
@@ -24,13 +26,11 @@ export default class App extends Component {
             <div className="App">
                 <Navigation/>
                 <Switch>
-                    <Route path="/vendors">
-                        <Vendors/>
-                    </Route>
-                    <Route path="/">
-                        <Home/>
-                    </Route>
+                    <Route path="/" exact component={Home} />
+                    <Route path="/contact" component={Contact} />
+                    <Route path="/vendors" component={Vendors} />
                 </Switch>
+                <Footer/>
             </div>
         </Router>
       
