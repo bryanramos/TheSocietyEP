@@ -1,0 +1,20 @@
+[
+    {
+        "widgetTitle": "Wedding Vision",
+        "widgetDescription": "Our unmatched experience and commitment will help make your dream wedding a beautiful reality.",
+        "widgetButtonText": "About Us",
+        "widgetURL": "/about"
+    },
+    {
+        "widgetTitle": "Local Vendors",
+        "widgetDescription": "Browse our collective of fabulous southwestern professionals to help you with all aspects of your dream wedding.",
+        "widgetButtonText": "Browse Vendors",
+        "widgetURL": "/vendors"
+    },
+    {
+        "widgetTitle": "Inspiration",
+        "widgetDescription": "We're here to help! Let us guide you through one of the most unforgettable moments of your life!",
+        "widgetButtonText": "Get in Touch",
+        "widgetURL": "/contact"
+    }
+]

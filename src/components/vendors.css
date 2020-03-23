@@ -1,0 +1,38 @@
+.columns-2 .vendors-grid {
+    grid-template-columns: 1fr
+}
+
+.columns-2 #card-image {
+    padding-top: 300px;
+}
+
+.vendors-grid .card .card-image {
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+@media screen and (min-width: 550px) {
+    .columns-2 .vendors-grid .card {
+        flex-direction: row !Important;
+    }
+    .columns-2 .vendors-grid .card .card-image {
+        padding-right: 40%;
+        padding-top: 0px;
+        border-top-left-radius: 10px;
+        border-top-right-radius: 10px;
+        border-top-right-radius: 0px;
+    }
+}
+
+
+.a98e0f41-aacc-42ca-a6b6-b0e3151de079 .card-image {
+    background-position: bottom center !Important;
+}
+
+.ed8b66a9-b5a4-4a80-b747-652f8cecad35 .card-image {
+    background-position: top center !Important;
+}   
+
+.c13e1e48-ccd8-4649-9728-ea54e14406ba .card-image {
+    background-position: right center !Important;
+}
