@@ -6,9 +6,9 @@ const Banner = styled.div`
     height: 400px;
     display: flex;
     align-items: center;
-    background: #eee url(http://thesocietyep.com/wp-content/uploads/2020/02/vendors-header.jpg);
+    background: #eee url(http://www.threesistersep.com/wp-content/uploads/2019/05/el_paso_weddings_208.jpg);
     background-size: cover;
-    background-position: center bottom;
+    background-position: center center;
 `;
 
 const BannerBounds = styled.div`

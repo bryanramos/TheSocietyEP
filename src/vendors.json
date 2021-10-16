@@ -22,7 +22,7 @@
         "id": "0f87fedb-a2b0-4233-bf55-b64a17f070b2",
         "vendorCategory": "venues",
         "vendorType": "Venues",
-        "vendorName": "Ardovinos",
+        "vendorName": "Ardovinos Desert Crossing",
         "vendorImage":  "http://thesocietyep.com/images/Ardovinos.jpg",
         "vendorDescription": "We are a destination – an experience – where you can dine in our restaurant, relax on our patios, celebrate a momentous occasion or shop at our Farmers’ Market. All it takes is one visit; and, as you watch the evening passenger train wind its way around Mount Cristo Rey you'll understand why you'll want to keep coming back.",
         "vendorEmails": [
@@ -74,6 +74,25 @@
         "vendorPhones": [
         ],
         "vendorURL": "http://www.arteenpapel.mx/"
+    },
+    {
+        "id": "77ec3b7e-3f59-4c3b-acfc-1d18134eec65",
+        "vendorCategory": "spa",
+        "vendorType": "Spa",
+        "vendorName": "Blush Boutique & Spa",
+        "vendorImage": "http://thesocietyep.com/images/BlushBoutiqueSpa.jpg",
+        "vendorDescription": "Day Spa located at the Stanton House hotel, in downtown El Paso.  Specializing in a wide variety of skincare treatments, massage, sensory deprivation (float) tank, and body treatments.  Eminence Organic Skin Care is proudly used and sold in the spa and boutique.  Blush also offers a relaxation lounge, steam rooms, access to gym and boutique with clothing, yoga wear, jewelry and gifts.",
+        "vendorEmails": [
+            {
+                "url": "mail@blushskin.com"
+            }
+        ],
+        "vendorPhones": [
+            {
+                "phone": "9152478747"
+            }
+        ],
+        "vendorURL": "https://blushskin.com/"
     },
     {
         "id": "c13e1e48-ccd8-4649-9728-ea54e14406ba",
@@ -149,39 +168,19 @@
         "vendorURL": "https://www.coronadocountryclub.com/"
     },
     {
-        "id": "d8e4d0ac-6b0c-4600-b4f7-f1ce7eb9a07a",
-        "vendorCategory": "other-specialty",
-        "vendorType": "Other/Specialty",
-        "vendorName": "Child at Heart Lettering",
-        "vendorImage":  "http://thesocietyep.com/images/ChildAtHeartLettering.jpg",
-        "vendorDescription": "I am a stay-at-home mom and lettering artist who loves to share fun DIY and craft ideas as well as how to create a simple and beautiful home you want on a small budget.",
-        "vendorEmails": [
-            {
-                "url": "deonnawade@gmail.com"
-            }
-        ],
-        "vendorPhones": [
-        ],
-        "vendorURL": "https://www.facebook.com/pg/thechildatheartblog/posts/"
-    },
-    {
-        "id": "0ef39eb6-20e2-4607-8df2-d174d683bf60",
-        "vendorCategory": "bakery",
-        "vendorType": "Bakery",
-        "vendorName": "Elite Cakes",
-        "vendorImage":  "http://thesocietyep.com/images/EliteCakes.jpg",
-        "vendorDescription": "Delivering exceptional, delicious cakes for all occassions and events!",
-        "vendorEmails": [
-            {
-                "url": "elite_eventsep@hotmail.com"
-            }
-        ],
+        "id": "840482c5-da4a-436d-957c-45b2dc6d7fca",
+        "vendorCategory": "venues",
+        "vendorType": "Venues",
+        "vendorName": "DoubleTree El Paso Downtown",
+        "vendorImage": "http://thesocietyep.com/images/DoubleTree.jpg",
+        "vendorDescription": "We offer weddings in the sky! with incredible regional views of the Franklin Mountains, downtown skyline and our border region.",
+        "vendorEmails": [],
         "vendorPhones": [
             {
-                "phone": "9158750936"
+                "phone": "9155328733"
             }
         ],
-        "vendorURL": "http://www.facebook.com/eliteeventsdesigners"
+        "vendorURL": "http://elpasodowntowncitycenter.doubletree.com/"
     },
     {
         "id": "8afda39c-10b3-45d4-9d33-fe2d3ac6b163",
@@ -225,6 +224,25 @@
         "vendorURL": "https://www.dryblowdrybar.com/"
     },
     {
+        "id": "c4a75115-f060-4b28-aad0-b8c0dd0841b4",
+        "vendorCategory": "hair-makeup",
+        "vendorType": "Hair & Makeup",
+        "vendorName": "Elyse Simons Beauty",
+        "vendorImage":  "http://thesocietyep.com/images/ElyseSimons.jpg",
+        "vendorDescription": "Elyse Simons Beauty provides on location makeup services including bridal makeup, beauty consultation, light hairstyling, airbrush makeup and more.",
+        "vendorEmails": [
+            {
+                "url": "nikita@dryelpaso.com"
+            }
+        ],
+        "vendorPhones": [
+            {
+                "phone": "6103600501"
+            }
+        ],
+        "vendorURL": "https://www.elysesimons.com/"
+    },
+    {
         "id": "7796645b-76e0-4104-830c-47874b24b585",
         "vendorCategory": "photobooths",
         "vendorType": "Photobooths",
@@ -245,25 +263,6 @@
             }
         ],
         "vendorURL": "http://www.funboxx.net/"
-    },
-    {
-        "id": "c4a75115-f060-4b28-aad0-b8c0dd0841b4",
-        "vendorCategory": "hair-makeup",
-        "vendorType": "Hair & Makeup",
-        "vendorName": "Elyse Simons",
-        "vendorImage":  "http://thesocietyep.com/images/ElyseSimons.jpg",
-        "vendorDescription": "Elyse Simons Beauty provides on location makeup services including bridal makeup, beauty consultation, light hairstyling, airbrush makeup and more.",
-        "vendorEmails": [
-            {
-                "url": "nikita@dryelpaso.com"
-            }
-        ],
-        "vendorPhones": [
-            {
-                "phone": "6103600501"
-            }
-        ],
-        "vendorURL": "https://www.elysesimons.com/"
     },
     {
         "id": "ba34642b-7cf1-44c3-ac69-5cdffbb7df8a",
@@ -307,7 +306,7 @@
         "id": "210692bc-c4c4-4f2e-abc2-e94544d97471",
         "vendorCategory": "hair-makeup",
         "vendorType": "Hair & Makeup",
-        "vendorName": "Jinny Riddle",
+        "vendorName": "Jinny Riddle Makeup Studio Hair & Nails",
         "vendorImage":  "http://thesocietyep.com/images/JinnyRiddle.jpg",
         "vendorDescription": "Jinny Riddle Make Up Studio is a full service salon in El Paso, Texas. Jinny also provides hair and makeup services for bridal, sweet sixteen, quinceaneras and other events.",
         "vendorEmails": [
@@ -323,20 +322,23 @@
         "vendorURL": "https://jinnyriddle.com/index.html"
     },
     {
-        "id": "da5ad4ad-cb45-4a09-93c6-6ddd28249b1b",
-        "vendorCategory": "photographers",
-        "vendorType": "Photographers",
-        "vendorName": "Life in Tandom",
-        "vendorImage":  "http://thesocietyep.com/images/LifeInTandom.jpg",
-        "vendorDescription": "A wedding photographer duo specializing in wedding, engagement, and portrait photography in El Paso, Texas.",
+        "id": "2f2a6d3a-90db-4bbb-9c3e-d606c0866454",
+        "vendorCategory": "dining",
+        "vendorType": "Dining",
+        "vendorName": "Mesa Street Grill",
+        "vendorImage": "http://thesocietyep.com/images/MesaStreetGrill.jpg",
+        "vendorDescription": "Locally owned fine dining restaurant with a Private Dining Room and Patio available for Private Events.",
         "vendorEmails": [
             {
-                "url": "hello@lifeintandemphotography.com"
+                "url": "events@mesastreetgrill.com"
             }
         ],
         "vendorPhones": [
+            {
+                "phone": "9155321881"
+            }
         ],
-        "vendorURL": "http://lifeintandemphotography.com/"
+        "vendorURL": "https://www.mesastreetgrill.com/"
     },
     {
         "id": "369b05e1-13f5-4d10-971a-710a9801dc5e",
@@ -356,6 +358,25 @@
             }
         ],
         "vendorURL": "https://www.mrphotoboothep.com/"
+    },
+    {
+        "id": "991ca022-45e7-466f-b0c0-d4b3d1e5aff7",
+        "vendorCategory": "venue",
+        "vendorType": "Venue",
+        "vendorName": "Porta Blu Venue",
+        "vendorImage": "http://thesocietyep.com/images/PortaBlueVenue.jpg",
+        "vendorDescription": "A stunning El Paso venue for your big day.",
+        "vendorEmails": [
+            {
+                "url": "portabluvenue@gmail.com"
+            }
+        ],
+        "vendorPhones": [
+            {
+                "phone": "9152839224"
+            }
+        ],
+        "vendorURL": "https://www.portabluvenue.com/"
     },
     {
         "id": "3a901e08-ce73-4d1d-87ed-cefb3d931e0a",
@@ -380,12 +401,12 @@
         "id": "522e4917-3f88-43e3-a450-e5743ef791f0",
         "vendorCategory": "photographers",
         "vendorType": "Photographers",
-        "vendorName": "Stephane Lemaire",
+        "vendorName": "Stephane Lemaire Photography",
         "vendorImage":  "http://thesocietyep.com/images/StephaneLemaire.jpg",
         "vendorDescription": "Stephane Lemaire offers wedding, engagement, bridal photography in El Paso Texas and Las Cruces.",
         "vendorEmails": [
             {
-                "url": "stephane-lemaire@hotmail.fr"
+                "url": "stephanelemairephoto@gmail.com"
             }
         ],
         "vendorPhones": [
@@ -396,61 +417,23 @@
         "vendorURL": "https://stephanelemaire.com/"
     },
     {
-        "id": "26a85f52-31e8-4342-a794-99cb65fdeb05",
-        "vendorCategory": "other-specialty",
-        "vendorType": "Other/Specialty",
-        "vendorName": "The City Magazine",
-        "vendorImage":  "http://thesocietyep.com/images/TheCityMagazine.jpg",
-        "vendorDescription": "The City Magazine is El Paso's only monthly Lifestyle magazine full of edgy reads and trendy photography!",
+        "id": "0fda1161-eae8-453c-8b86-c73eb724da04",
+        "vendorCategory": "bakery",
+        "vendorType": "Bakery",
+        "vendorName": "The Cookie Studio",
+        "vendorImage": "http://thesocietyep.com/images/TheCookieStudio.jpg",
+        "vendorDescription": "The Cookie Studio began in August of 2019 and is run by sisters Brit and Sid Lerma. Cookies are our creative outlet and we love what we do. We strive for greatness in the taste of our many available flavors and to create something remarkable. Each custom set of cookies is thoughtfully made, tailored to our clients and their event or occasion.",
         "vendorEmails": [
             {
-                "url": "josh@thecitymagazineelp.com"
+                "url": "thecookiestudio.ep@gmail.com"
             }
         ],
         "vendorPhones": [
             {
-                "phone": "9155005730"
+                "phone": "9152295753"
             }
         ],
-        "vendorURL": "https://thecitymagazineelp.com/"
-    },
-    {
-        "id": "7edd6b6a-3d04-488f-8eb8-f902aacbcade",
-        "vendorCategory": "other-specialty",
-        "vendorType": "Other/Specialty",
-        "vendorName": "Table Occasions",
-        "vendorImage":  "http://thesocietyep.com/images/TableOccasions.jpg",
-        "vendorDescription": "Table Occasions started out of pure passion for making our personal events unforgettable. Our goal at Table Occasions is to incite our client’s creative spirit, translate your vision into a one of a kind event that gives your guest an unforgettable experience.",
-        "vendorEmails": [
-            {
-                "url": "victoriacarbonell78@gmail.com"
-            }
-        ],
-        "vendorPhones": [
-            {
-                "phone": "9158454800"
-            }
-        ],
-        "vendorURL": "https://www.facebook.com/tableoccasionsep/"
-    },
-    {
-        "id": "ce18e247-856e-481b-8f2e-69f0a90dc41a",
-        "vendorCategory": "other-specialty",
-        "vendorType": "Other/Specialty",
-        "vendorName": "Sweet & Fancy",
-        "vendorImage":  "http://thesocietyep.com/images/SweetAndFancy.jpg",
-        "vendorDescription": "Our Goal is to make and create your event to be the best experience for you and your guests. With a stress free & a singular touch of originality.",
-        "vendorEmails": [
-            {
-                "url": "issamagi33@gmail.com"
-            }
-        ],
-        "vendorPhones": [
-            {
-                "phone": "tel:9156675232"
-            }
-        ],
-        "vendorURL": "https://www.facebook.com/nanaganser/"
+        "vendorURL": "https://thecookiestudio-ep.square.site/"
     },
     {
         "id": "87a07420-afc2-4034-a191-ba7d4e195f9b",
@@ -472,10 +455,29 @@
         "vendorURL": "http://www.threesistersep.com/"
     },
     {
+        "id": "150325e9-2dc3-4f39-9346-a1a81482226f",
+        "vendorCategory": "photography",
+        "vendorType": "Photography",
+        "vendorName": "Tiffany Hudson Films",
+        "vendorImage": "http://thesocietyep.com/images/TiffanyHudsonFilms.jpg",
+        "vendorDescription": "Every couple has a story and a wedding day that is unique to them. I try to create a film that tells that story! I want my couples to watch their film and be able to see and hear their day all over again.",
+        "vendorEmails": [
+            {
+                "url": "tiffanyhudsonfilms@yahoo.com"
+            }
+        ],
+        "vendorPhones": [
+            {
+                "phone": "9155034558"
+            }
+        ],
+        "vendorURL": "https://www.tiffanyhudsonfilms.com/"
+    },
+    {
         "id": "06647676-124f-4499-9de4-9935a64bcc07",
         "vendorCategory": "photographers",
         "vendorType": "Photographers",
-        "vendorName": "Veronica Cook",
+        "vendorName": "Veronica Cook Photography",
         "vendorImage":  "http://thesocietyep.com/images/VeronicaCook.jpg",
         "vendorDescription": "All packages include a custom, personalized portrait experience as well as 1-2 hours of shooting and an online gallery where you can access your photos.",
         "vendorEmails": [
@@ -484,7 +486,29 @@
             }
         ],
         "vendorPhones": [
+            {
+                "phone": "9153560600"
+            }
         ],
         "vendorURL": "https://www.instagram.com/veronica.cook.photography"
+    },
+    {
+        "id": "0b8dfc07-3ce4-451b-a1a5-ab051ee480d7",
+        "vendorCategory": "planners",
+        "vendorType": "Planners",
+        "vendorName": "Victoria G. Events",
+        "vendorImage": "http://thesocietyep.com/images/VictoriaGEvents.jpg",
+        "vendorDescription": "Victoria G. Events was founded in 2019 from a desire to help brides enjoy what can be known as the more \"stressful\" part of their big day. I do my best to make my clients’ planning process easy, organized & fun as they prepare for their event!",
+        "vendorEmails": [
+            {
+                "url": "victoriagevents@gmail.com"
+            }
+        ],
+        "vendorPhones": [
+            {
+                "phone": "9152558134"
+            }
+        ],
+        "vendorURL": "https://www.victoriagevents.com/"
     }
 ]

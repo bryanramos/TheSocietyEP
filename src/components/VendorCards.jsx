@@ -125,6 +125,7 @@ const CardsGrid = styled.div`
     display: grid;
     grid-gap: 24px;
     grid-template-columns: 1fr 1fr 1fr;
+    margin-bottom: 40px;
     @media (max-width: 850px) {
         grid-template-columns: 1fr 1fr;
         grid-grap: 36px;
@@ -308,7 +309,7 @@ export default class VendorCards extends Component {
                                                     })
                                                 }
                                             </CardLinks>
-                                            <CardURL aria-label={"Visit " + vendor.vendorName + " website"} title={"Visit " + vendor.vendorName + " website"} href={vendor.vendorURL}>Visit Website</CardURL>
+                                            <CardURL aria-label={"Visit " + vendor.vendorName + " website"} title={"Visit " + vendor.vendorName + " website"} href={vendor.vendorURL} target="_blank">Visit Website</CardURL>
                                         </CardBody>
                                     </Card>
                                 );
@@ -367,12 +368,14 @@ export default class VendorCards extends Component {
                         <option value="show-all">Show All</option>
                         <option value="bakery">Bakery</option>
                         <option value="bridal-boutiques">Bridal Boutiques</option>
+                        <option value="dining">Dining</option>
                         <option value="dj">DJ</option>
                         <option value="florists">Florists</option>
                         <option value="hair-makeup">Hair &amp; Makeup</option>
                         <option value="photobooths">Photobooths</option>
                         <option value="photographers">Photographers</option>
                         <option value="planners">Planners</option>
+                        <option value="spa">Spa</option>
                         <option value="venues">Venues</option>
                         <option value="other-specialty">Other/Specialty</option>
                     </select>
